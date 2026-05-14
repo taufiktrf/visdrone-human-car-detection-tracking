@@ -2,7 +2,7 @@
 
 Aerial object detection and tracking using **YOLO26** (latest Ultralytics) on the VisDrone dataset. Detects humans (pedestrian/people) and cars (car/van), counts humans, and tracks objects using BoT-SORT.
 
-## Setup (Google Colab)
+## Setup
 
 ### 1. Clone & Install
 ```bash
