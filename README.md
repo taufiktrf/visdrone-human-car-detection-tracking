@@ -50,3 +50,17 @@ python evaluate.py
 - `output/detection_results.png` — grid visualization
 - `output/tracked_output.mp4` — tracked video with trails
 - `output/evaluation_plots.png` — training curves and confusion matrix
+
+
+## Demo
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=5OC_zfCCXiM">
+     <div style="position: relative; display: inline-block;">
+        <img src="https://img.youtube.com/vi/5OC_zfCCXiM/0.jpg" alt="Tennis-Tracker Demo" width="600">
+        <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+          <img src="https://img.shields.io/badge/▶%20Watch%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo on YouTube">
+        </div>
+     </div>
+  </a>
+</div>
