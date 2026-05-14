@@ -1,2 +1,6 @@
-data
+VisDrone_Dataset/
 desktop.ini
+runs/
+*.zip
+__pycache__/
+*.pt
